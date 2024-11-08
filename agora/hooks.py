@@ -1,9 +1,10 @@
 app_name = "agora"
 app_title = "Agora"
-app_publisher = "*Agora* is an open-source project and issue management tool designed to streamline team collaboration and productivity. Inspired by the ancient Greek *agora*, a space for gathering and discussion, this app serves as a digital hub for organizing projects, tracking issues, and fostering seamless teamwork."
-app_description = "**Agora - Open Source Project & Issue Management**"
+app_publisher = "Ameer Muavia Shah"
+app_description = "*Agora* is an open-source project and issue management tool designed to streamline team collaboration and productivity. Inspired by the ancient Greek *agora*, a space for gathering and discussion, this app serves as a digital hub for organizing projects, tracking issues, and fostering seamless teamwork."
 app_email = "mavee.shah@hotmail.com"
 app_license = "mit"
+app_color = "#3498db"
 
 # Apps
 # ------------------
@@ -241,4 +242,3 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
